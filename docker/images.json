@@ -9,14 +9,6 @@
         "name": "clickhouse/test-old-centos",
         "dependent": []
     },
-    "docker/test/compatibility/ubuntu": {
-        "name": "clickhouse/test-old-ubuntu",
-        "dependent": []
-    },
-    "docker/test/integration/base": {
-        "name": "clickhouse/integration-test",
-        "dependent": []
-    },
     "docker/test/fuzzer": {
         "name": "clickhouse/fuzzer",
         "dependent": []
